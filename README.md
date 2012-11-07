@@ -6,11 +6,10 @@ This is a Chrome extension which activates on codeskulptor.org and provides auto
 A full tutorial on how this extension was made is available [here](http://www.bitfalls.com/2012/11/building-codeskulptor-autosave-chrome.html)
 
 ###Installation
-To install the extension either
+To install the extension do *one* of the following:
 
-a) Download/clone the source code and select Load Unpacked Extension on Chrome's extensions screen with Developer Mode activated
-or
-b) Go here: https://chrome.google.com/webstore/detail/codeskulptor-autosave/hpopfbgbgliggilmiohgejnkaigcnpib
+- Download/clone the source code and select Load Unpacked Extension on Chrome's extensions screen with Developer Mode activated
+- Go here: https://chrome.google.com/webstore/detail/codeskulptor-autosave/hpopfbgbgliggilmiohgejnkaigcnpib
 
 ###License
 See LICENSE
