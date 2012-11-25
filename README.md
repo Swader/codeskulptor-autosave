@@ -1,5 +1,7 @@
 ##CODESKULPTOR AUTOSAVE README
 
+####This extension is no longer actively developed, and will be removed from the Chrome Web Store on January 1st, 2013
+
 ###Introduction
 This is a Chrome extension which activates on codeskulptor.org and provides autosave functionality every 3 minutes. The interval can be changed from a minimum of 1 to a maximum of 100 minutes in the options screen, but feel free to fork it and tweak the settings to your liking.
 
